@@ -1,0 +1,33 @@
+p {
+    margin: 3px;
+}
+
+.list {
+    display: flex;
+    justify-content: start;
+}
+
+.list__name {
+    font-weight: bold;
+}
+
+.list__twitter {
+    color: #42A4EB;
+}
+
+.list__logo {
+    width: 30px;
+    margin-right: 5px;
+}
+
+.Badges__list-img {
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    margin: 3px;
+}
+  
+.Badges__list-img img{   
+    border-radius: 50%;
+    margin-top: 5px;
+}
