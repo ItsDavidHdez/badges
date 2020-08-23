@@ -1,5 +1,4 @@
 import React from 'react';
-import { render } from '@testing-library/react';
 import './styles/BadgeNew.css';
 import header from '../images/badge-header.svg';
 import Badge from '../components/Badge';

@@ -28,15 +28,3 @@
   justify-content: flex-end;
   margin-bottom: 1rem;
 }
-
-.Badges__list-container {
-  display: flex;
-  justify-content: start;
-}
-
-.Badges__list {  
-  box-shadow: 1px 1px 10px -5px #000000;
-  border-radius: 4px;
-  margin-top: 10px;
-}
-

@@ -1,5 +1,4 @@
 import React from 'react';
-import Badges from '../pages/Badges';
 import '../components/styles/BadgesList.css'
 import logoTwitter from '../images/icons8-twitter.svg'
 
