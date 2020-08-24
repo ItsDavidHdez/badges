@@ -1,6 +1,6 @@
-body {
+/* body {
     overflow: hidden;
-}
+} */
 
 .Home__hero {
     height: 100vh;
@@ -41,4 +41,12 @@ body {
 .Home__main-img img{
     width: 550px;
     margin: 0;
+}
+
+.Home__main h1 {
+    margin-top: 13px;
+}
+
+.Home__main p {
+    margin-bottom: 8px;
 }

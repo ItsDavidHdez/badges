@@ -14,7 +14,7 @@ class Home extends React.Component {
                     <div className="Home__main">
                         <img className="img-fluid" src={confLogo} alt="Logo" />
                         <h1>PRINT YOUR BADGES</h1>
-                        <p>The easiest way to manage your <br/>conference </p>
+                        <p>The easiest way to manage your conference </p>
                         <Link to="/badges/new" type="button" className="btn btn-primary Home__main-button">Start now</Link>
                     </div>
                     <div className="Home__main-img">

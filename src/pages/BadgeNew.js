@@ -19,7 +19,7 @@ class BadgeNew extends React.Component{
         const nextForm = this.state.form;
         nextForm [e.target.name] = e.target.value;
         this.setState({
-            form: nextForm
+            form: nextForm,
         })
     };
 
